@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gus747
 - 👀 I’m interested in ... Data science
-- 🌱 I’m currently learning ... Big Data and Data Science
+- 🌱 I’m currently learning ... Coding, Big Data and Data Science
 - 💞️ I’m looking to collaborate on ... Data proyects
 - 📫 How to reach me ... Email 
 
